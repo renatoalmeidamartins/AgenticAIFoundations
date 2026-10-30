@@ -30,3 +30,6 @@
 - [Open source MCP servers for AWS](https://github.com/awslabs/mcp)
 - [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
 - [Media operations agent](https://aws.amazon.com/media/nab25-demos/media-operations-agent/) - case study where one can "Unlock value in video archives with multi-agent collaboration for video understanding using Amazon Bedrock"
+- [Bedrock Flow Samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
+- [Kiro basics](https://kiro.dev/docs/getting-started/first-project/)
+- [AI-DLC - one core, many harnesses ](https://github.com/awslabs/aidlc-workflows)
