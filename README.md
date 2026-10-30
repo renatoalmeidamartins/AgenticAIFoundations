@@ -5,6 +5,8 @@
 
 ## Day 1 links
 - What is series:
+    - [Embeddings in Machine Learning](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
+    - [RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
     - [Agentic AI](https://aws.amazon.com/what-is/agentic-ai/)
     - [Deep learning](https://aws.amazon.com/what-is/deep-learning/)
     - [Machine learning](https://aws.amazon.com/what-is/machine-learning/)
@@ -22,4 +24,9 @@
         - [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
         - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
     - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework)
-    - [ReAct: Synergizing Reasoning and Acting in Language Models ](https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/)
+- [ReAct: Synergizing Reasoning and Acting in Language Models ](https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/)
+- [Embeddings projector](https://projector.tensorflow.org/)
+- [Model Context Protocol - MCP](https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture)
+- [Open source MCP servers for AWS](https://github.com/awslabs/mcp)
+- [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
+- [Media operations agent](https://aws.amazon.com/media/nab25-demos/media-operations-agent/) - case study where one can "Unlock value in video archives with multi-agent collaboration for video understanding using Amazon Bedrock"
