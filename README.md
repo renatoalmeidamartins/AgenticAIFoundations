@@ -38,3 +38,9 @@
 - [LlamaIndex quickstart](https://developers.llamaindex.ai/python/framework/getting_started/starter_example/)
 - [Use Amazon Bedrock Intelligent Prompt Routing for cost and latency benefits](https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-intelligent-prompt-routing-for-cost-and-latency-benefits/)
 - [Strands agents tools repo](https://github.com/strands-agents/tools) - this is community based, archived on Nov 4th, 2026 in favor of the [vended SDK tools](https://strandsagents.com/docs/user-guide/sdk/tools/vended-tools/)
+- [Built-in strategies for memory extraction strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-strategies.html)
+- Agentcore in a bit more detail
+    - New features since the course was released
+        - [Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/). Keep in mind there was already an [Open Source MCP Registry](https://github.com/modelcontextprotocol/registry)
+        - [Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/)
+        - As part of agentcore evaluations, there are [prompts](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html) for the built-in metrics
