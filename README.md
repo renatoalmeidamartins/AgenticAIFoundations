@@ -4,6 +4,9 @@
 - [Course materials](https://us-east-1.student.classrooms.aws.training/class/ilt%238sBYjfa9yCf36yp1JzR6CL)
 - In [MyClass](https://myclass.skillbuilder.aws), you can fill the survey by going to the class in the "Past classes" section and clicking the evaluation button.
 
+## My contact info:
+- [Linkedin](https://www.linkedin.com/in/renatodealmeidamartins)
+- renatoalmeidamartins@gmail.com
 ## Reference repos
 - [Repo **full** with agentcore samples](https://github.com/awslabs/agentcore-samples/tree/main)
 ## Day 1 links
