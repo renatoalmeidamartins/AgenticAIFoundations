@@ -33,3 +33,8 @@
 - [Bedrock Flow Samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
 - [Kiro basics](https://kiro.dev/docs/getting-started/first-project/)
 - [AI-DLC - one core, many harnesses ](https://github.com/awslabs/aidlc-workflows)
+
+## Day 2 links
+- [LlamaIndex quickstart](https://developers.llamaindex.ai/python/framework/getting_started/starter_example/)
+- [Use Amazon Bedrock Intelligent Prompt Routing for cost and latency benefits](https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-intelligent-prompt-routing-for-cost-and-latency-benefits/)
+- [Strands agents tools repo](https://github.com/strands-agents/tools) - this is community based, archived on Nov 4th, 2026 in favor of the [vended SDK tools](https://strandsagents.com/docs/user-guide/sdk/tools/vended-tools/)
